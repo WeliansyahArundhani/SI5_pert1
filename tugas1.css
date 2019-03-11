@@ -1,0 +1,171 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+bgdasar{
+	margin: 5px auto;
+	background: #FFEBCD;
+}
+
+
+table.data{
+	margin: 5px auto;
+}
+
+
+judul{
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+	display: block;
+	padding-top: 15px;
+	font-weight: 100;
+	height: 75px;
+	width: 70%;
+	text-align: center;
+	font-family: Cambria;
+	font-size: 40px;
+	margin: 5px auto;
+	
+}
+
+
+tabel{
+	font-size: 35px;
+	display: block;
+	min-height: 830px;
+	background: #aaa;
+	width: 85%;
+	margin: 30px auto;
+	margin-bottom: 0;
+}
+
+tabel nomor{
+	display: block;
+	width: 5%;
+	float: left;
+	background: white;
+	height: 300px;
+	color: white;
+	font-family: Cambria;
+}
+
+tabel nama{
+	display: block;
+	width: 30%;
+	float: left;
+	background: white;
+	height: 830px;
+	color: white;
+	font-family: Cambria;
+}
+
+tabel nim{
+	display: block;
+	width: 15%;
+	float: left;
+	background: white;
+	height: 830px;
+	color: white;
+	font-family: Cambria;
+}
+
+tabel alasan{
+	display: block;
+	width: 50%;
+	float: right;
+	background: white;
+	height: 830px;
+	color: black;
+	font-family: Cambria;
+}
+
+
+tabel nomor kepala{
+	display: block;
+	padding-top: 2px;
+	font-family: Cambria;
+	text-align: center;
+	height: 50px;
+	background: #A52A2A;
+	width: 100%;
+}
+
+tabel nama kepala{
+	display: block;
+	padding-top: 2px;
+	font-family: Cambria;
+	text-align: center;
+	height: 50px;
+	background: #A52A2A;
+	width: 100%;
+}
+
+tabel nim kepala{
+	display: block;
+	padding-top: 2px;
+	font-family: Cambria;
+	text-align: center;
+	height: 50px;
+	background: #A52A2A;
+	width: 100%;
+}
+
+tabel alasan kepala{
+	display: block;
+	color: white;
+	padding-top: 2px;
+	font-family: Cambria;
+	text-align: center;
+	height: 50px;
+	background: #A52A2A;
+	width: 100%;
+}
+
+tabel nomor no{
+	background: white;
+	display: block;
+	width: 100%;
+	height: 30px;
+	color: black;
+	font-size: 20px;
+	font-family: Calibri;
+	padding-left: 10px;
+	padding-top: 5px;
+	border-bottom: 2px solid black;
+}
+
+tabel nama nama{
+	display: block;
+	width: 100%;
+	height: 30px;
+	color: black;
+	font-size: 20px;
+	font-family: Calibri;
+	padding-left: 10px;
+	padding-top: 5px;
+	border-bottom: 2px solid black;
+}
+
+tabel nim nim{
+	display: block;
+	width: 100%;
+	height: 30px;
+	color: black;
+	font-size: 20px;
+	font-family: Calibri;
+	padding-left: 20px;
+	padding-top: 5px;
+	border-bottom: 2px solid black;
+}
+
+tabel alasan alasan{
+	display: block;
+	width: 95.3%;
+	height: 30px;
+	color: black;
+	font-size: 20px;
+	font-family: Calibri;
+	padding-left: 20px;
+	padding-top: 5px;
+	border-bottom: 2px solid black;
