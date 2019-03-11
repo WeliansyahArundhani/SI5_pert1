@@ -42,10 +42,10 @@
 					$kom = $data["kom"];
 					 
 					echo "<tr>
-							<td>$no</td>
-							<td>$nim</td>
+							<td align='center'>$no</td>
+							<td align='center'>$nim</td>
 							<td>$nama</td>
-							<td>$kom</td>
+							<td align='center'>$kom</td>
 							<td>
 								<a href='rubah-data.php?rubah_id=$id'>Edit</a>
 								<a href='hapus-data.php?hapus_id=$id'>Delete</a>
