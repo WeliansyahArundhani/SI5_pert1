@@ -4,13 +4,19 @@
 	<title>Tampil Data</title>
 	<link rel="Stylesheet" type="text/css" href="tugas1.css">
 </head>
+<body><!DOCTYPE html>
+<html>
+<head>
+	<title>Tampil Data</title>
+	<link rel="Stylesheet" type="text/css" href="tugas1.css">
+</head>
 <body>
 	<font color="Brown"><br>
 	<h2 align="center">DATA MAHASISWA LAB SI 5</h2><br>
 	<hr color="Brown" width="100%" size="4" align="center"><br>
 	<h3><a href="home.php">Home</a></h3><br>
 	
-	<table class="data" style = "background-color:pink; " border="1">
+	<table class="data" style = "background-color:white; " border="1">
 		<thead>
 			<th>No</th>
 			<th>NIM</th>

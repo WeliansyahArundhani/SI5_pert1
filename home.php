@@ -11,7 +11,9 @@
 	<hr color="Brown" width="100%" size="4" align="center"><br>
 	<h3><a href="hallogin.php">Admin</a></h3><br>
 	
-	<table class="data" style = "background-color:pink; " border="1">
+	<div id="bungkus">
+	
+	<table class="data" style = "background-color:white; " border="1">
 		<tr>
 			<th>No</th>
 			<th>NIM</th>
@@ -37,10 +39,10 @@
 					$kom = $data["kom"];
  
 					echo "<tr>
-							<td>$no</td>
-							<td>$nim</td>
+							<td align='center'>$no</td>
+							<td align='center'>$nim</td>
 							<td>$nama</td>
-							<td>$kom</td>
+							<td align='center'>$kom</td>
 						  </tr>";
 					$no++;
 				}
@@ -49,5 +51,6 @@
 			
 		</tbody>
 	</table>
+	</div>
 </body>
 </html>
